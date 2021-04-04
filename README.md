@@ -2,6 +2,12 @@
 # projet-statue-connecte
 projet-statue-connecte
 
+##prototype:
+*https://www.figma.com/file/noEdA8fu1rOkNcpRxwkgmz/mus%C3%A9e-subaquatique?node-id=33%3A444
+il y a des paramètres de css.
+
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
