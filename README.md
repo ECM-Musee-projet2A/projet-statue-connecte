@@ -21,4 +21,5 @@ This project is a partnership between engineer school <i>Ecole Centrale de Marse
 Project is created with: 
 
 **redux: pour maitriser les etats
+
 **mongoose&Expresser commnuniquer avec le serveur,maitrise les bases de donnee
