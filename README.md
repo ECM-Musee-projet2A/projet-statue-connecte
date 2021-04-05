@@ -22,4 +22,4 @@ Project is created with:
 
 **redux: pour maitriser les etats
 
-**mongoose&Expresser commnuniquer avec le serveur,maitrise les bases de donnee
+**mongoose&Express commnuniquer avec le serveur,maitrise les bases de donnee
