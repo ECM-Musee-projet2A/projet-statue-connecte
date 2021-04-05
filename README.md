@@ -18,4 +18,6 @@ il y a des paramètres de css.
 This project is a partnership between engineer school <i>Ecole Centrale de Marseille</i> and the MSM(<i>Musée Subaquatique de Marseille</i>)
 
 ## Technologies
-Project is created with:
+Project is created with: 
+
+**redux: pour maitriser les etats
