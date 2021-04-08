@@ -2,7 +2,7 @@
 # projet-statue-connecte
 projet-statue-connecte
 
-##prototype:
+## prototype:
 
 https://www.figma.com/file/noEdA8fu1rOkNcpRxwkgmz/mus%C3%A9e-subaquatique?node-id=33%3A444
 
